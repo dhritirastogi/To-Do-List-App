@@ -36,7 +36,7 @@ Both versions allow users to add, view, and manage tasks.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kevgon8/to-do-list-app.git
+   git clone https://github.com/dhritirastogi/to-do-list-app.git
     ```
 2. Navigate into the project directory:
 
@@ -100,14 +100,13 @@ python todo_cli.py
 Kevin Gonsalves
 
 ***Please be sure to check out my other repositories too!***
-- [Instagram Followers Analyzer](https://github.com/kevgon8/Instagram-Follower-Analyzer)
-- [CS50P Problem Sets](https://github.com/kevgon8/CS50P-Problem-Sets-Solutions)
-- [Simple User Authentication System](https://github.com/kevgon8/User-Authentication-System)
+- [Instagram Followers Analyzer](https://github.com/dhritirastogi/Instagram-Follower-Analyzer)
+- [Simple User Authentication System](https://github.com/dhritirastogi/User-Authentication-System)
 
 ## Contact
 For any questions or feedback, feel free to reach out:
 
 Email:
-- kevgon146@gmail.com 
+- dhritirastogi@gmail.com 
 
-- kg2713@srmist.edu.in
+- dr5618@srmist.edu.in
