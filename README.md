@@ -97,7 +97,7 @@ python todo_cli.py
 - **Terminal Version Improvements**: Add better input validation for task numbering and additional features like task deletion.
 
 ## Author
-Kevin Gonsalves
+Dhriti Rastogi
 
 ***Please be sure to check out my other repositories too!***
 - [Instagram Followers Analyzer](https://github.com/dhritirastogi/Instagram-Follower-Analyzer)
@@ -108,5 +108,4 @@ For any questions or feedback, feel free to reach out:
 
 Email:
 - dhritirastogi@gmail.com 
-
 - dr5618@srmist.edu.in
