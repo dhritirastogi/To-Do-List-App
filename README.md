@@ -100,7 +100,7 @@ python todo_cli.py
 Dhriti Rastogi
 
 ***Please be sure to check out my other repositories too!***
-- [Instagram Followers Analyzer](https://github.com/dhritirastogi/Instagram-Follower-Analyzer)
+- [Instagram Followers Analyzer](https://github.com/dhritirastogi/Instagram-Followers-Analyzer)
 - [Simple User Authentication System](https://github.com/dhritirastogi/User-Authentication-System)
 
 ## Contact
